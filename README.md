@@ -18,3 +18,5 @@ MATERIALES:
 - ProtoBoard
 - Cables para protboard
 - Arduino
+
+El diagrama de conexion y la app modificada se las dejo tambien en un archivo .rar
